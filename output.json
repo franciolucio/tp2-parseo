@@ -1,1 +1,0 @@
-["program", [], [], [["print", ["cons", "A", []]], ["print", ["cons", "B", []]], ["print", ["cons", "True", []]], ["print", ["cons", "False", []]], ["print", ["cons", "Cons", [["cons", "Zero", []], ["cons", "Cons", [["cons", "Suc", [["cons", "Zero", []]]], ["cons", "Cons", [["cons", "Suc", [["cons", "Suc", [["cons", "Zero", []]]]]], ["cons", "Nil", []]]]]]]]]]]
